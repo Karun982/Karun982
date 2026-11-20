@@ -82,6 +82,30 @@ I believe that learning is not a finite task. It is a continuous cycle of observ
 
 ---
 
+## ◈ 04 — Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/karun-2a4300334/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://leetcode.com/u/karun_24/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="mailto:karun132114@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br /><br />
+
+<sub>OPEN TO LEARNING, COLLABORATION & NEW OPPORTUNITIES</sub>
+
+</div>
+
+---
+
 <div align="center">
 
 <h3>DATA &nbsp; × &nbsp; LOGIC &nbsp; × &nbsp; IMAGINATION</h3>
