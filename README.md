@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img width="100%" alt="Animated emerald header" src="https://capsule-render.vercel.app/api?type=waving&color=0:071510,50:064E3B,100:10B981&height=160&section=header&animation=twinkling" />
+<!-- TOP ANIMATED EMERALD BANNER -->
+<img width="100%" src="assets/emerald-flow.gif" alt="Emerald flowing animation" />
 
 <br />
 
@@ -15,10 +16,13 @@
 <sub>CHITKARA UNIVERSITY &nbsp; · &nbsp; EXPLORING THE NEXT FRONTIER</sub>
 <br /><br />
 
-<img alt="Connecting data, logic and intelligence" src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=650&height=55&lines=Connecting+data+and+intelligence;Finding+order+in+complexity;Learning+beyond+the+obvious;Building+the+future+with+AI" />
+<!-- TYPING ANIMATION -->
+<img alt="Connecting data, logic and intelligence"
+src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=650&height=55&lines=Connecting+data+and+intelligence;Finding+order+in+complexity;Learning+beyond+the+obvious;Building+the+future+with+AI" />
 
 <br />
 
+<!-- PROFILE BADGES -->
 <img alt="AI and ML" src="https://img.shields.io/badge/DISCIPLINE-AI%20%26%20ML-10B981?style=for-the-badge&labelColor=0D211B" />
 <img alt="Curiosity driven" src="https://img.shields.io/badge/DRIVEN%20BY-CURIOSITY-34D399?style=for-the-badge&labelColor=0D211B" />
 <img alt="Learning in progress" src="https://img.shields.io/badge/STATUS-EVOLVING-84CC16?style=for-the-badge&labelColor=0D211B" />
@@ -113,9 +117,12 @@ I believe that learning is not a finite task. It is a continuous cycle of observ
 <i>Intelligence begins where curiosity refuses to stop.</i>
 
 <br /><br />
+
 <sub>◈ &nbsp; A WORK IN PROGRESS. BY DESIGN. &nbsp; ◈</sub>
+
 <br /><br />
 
-<img width="100%" alt="Animated emerald footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064E3B,100:071510&height=140&section=footer&animation=twinkling" />
+<!-- BOTTOM ANIMATED EMERALD BANNER -->
+<img width="100%" src="assets/emerald-flow.gif" alt="Emerald flowing animation" />
 
 </div>
