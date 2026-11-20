@@ -1,28 +1,35 @@
  <div align="center">
 
-<!-- TOP EMERALD WAVE -->
+<!-- TOP EMERALD WAVE BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071510,50:064E3B,100:10B981&height=160&section=header" />
 
 <br />
 
 <sub>◈ &nbsp; THE INTELLIGENCE PROJECT &nbsp; / &nbsp; PERSONAL PROFILE &nbsp; ◈</sub>
 
-# ✦ K A R U N ✦
+<h1>✦ K A R U N ✦</h1>
 
-**Artificial Intelligence & Machine Learning Undergraduate**
+<strong>Artificial Intelligence & Machine Learning Undergraduate</strong>
 
+<br />
 <sub>CHITKARA UNIVERSITY &nbsp; · &nbsp; EXPLORING THE NEXT FRONTIER</sub>
 
+<br /><br />
+
+<!-- TYPING ANIMATION -->
+<img
+src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=650&height=55&lines=Connecting+data+and+intelligence;Finding+order+in+complexity;Learning+beyond+the+obvious;Building+the+future+with+AI"
+alt="Typing animation"
+/>
+
 <br />
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=55&lines=Artificial+Intelligence+Explorer;Machine+Learning+Enthusiast;Exploring+Generative+AI;Building+Ideas+Into+Reality;Learning+Beyond+the+Obvious" />
+<!-- PROFILE BADGES -->
+<img src="https://img.shields.io/badge/DISCIPLINE-AI%20%26%20ML-10B981?style=for-the-badge&labelColor=0D211B" alt="AI and ML" />
+<img src="https://img.shields.io/badge/DRIVEN%20BY-CURIOSITY-34D399?style=for-the-badge&labelColor=0D211B" alt="Curiosity driven" />
+<img src="https://img.shields.io/badge/STATUS-EVOLVING-84CC16?style=for-the-badge&labelColor=0D211B" alt="Learning in progress" />
 
-<br />
-
-<img src="https://img.shields.io/badge/DISCIPLINE-AI%20%26%20ML-10B981?style=for-the-badge&labelColor=0D211B" />
-<img src="https://img.shields.io/badge/DRIVEN%20BY-CURIOSITY-34D399?style=for-the-badge&labelColor=0D211B" />
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-84CC16?style=for-the-badge&labelColor=0D211B" />
+<br /><br />
 
 </div>
 
@@ -30,133 +37,78 @@
 
 ## ◈ 01 — Signal in the Noise
 
-I'm an AI & ML undergraduate at **Chitkara University**, exploring the intersection of artificial intelligence, machine learning and software development.
+Every intelligent system begins with a simple idea: finding meaning in information.
 
-I'm interested in understanding how intelligent systems work, solving challenging problems and transforming ideas into practical applications.
+I'm an AI & ML undergraduate at **Chitkara University**, exploring how data, mathematical reasoning and computation come together to create intelligent technology. I'm interested in the process behind the result — how patterns emerge, how algorithms solve problems and how machines learn from experience.
 
-- Exploring Artificial Intelligence and Machine Learning.
-- Learning Deep Learning and Generative AI.
-- Strengthening Data Structures and Algorithms.
-- Experimenting with software development and emerging technologies.
-- Building projects and continuously improving my technical skills.
+My goal is to build a deeper understanding of technology, one question and one experiment at a time.
 
-**My philosophy:** Learn continuously. Experiment fearlessly. Build intelligently.
+## ◈ 02 — The Intelligence Spectrum
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>◉ &nbsp; PERCEPTION</h3>
+<sub>ARTIFICIAL INTELLIGENCE</sub>
+<p>Exploring how machines interpret information, reason and make decisions.</p>
+</td>
+<td width="50%" valign="top">
+<h3>◉ &nbsp; ADAPTATION</h3>
+<sub>MACHINE LEARNING</sub>
+<p>Understanding how models discover patterns, learn from data and generalize.</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>◉ &nbsp; LOGIC</h3>
+<sub>ALGORITHMS & PROBLEM SOLVING</sub>
+<p>Breaking complex challenges into structured and efficient solutions.</p>
+</td>
+<td valign="top">
+<h3>◉ &nbsp; CREATION</h3>
+<sub>SOFTWARE & EMERGING TECHNOLOGY</sub>
+<p>Turning abstract ideas into practical software through exploration and experimentation.</p>
+</td>
+</tr>
+</table>
 
-## ◈ 02 — The Technology Arsenal
-
-<div align="center">
-
-### PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark" />
-
-### WEB DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
-
-### AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-
-### DATABASES & TOOLS
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,docker&theme=dark" />
-
-</div>
-
----
-
-## ◈ 03 — The GitHub Observatory
+## ◈ 03 — The Learning Loop
 
 <div align="center">
 
-### GITHUB STATISTICS
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=karun-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=34D399&text_color=FFFFFF" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=karun-cyber&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=10B981" />
-
-<br />
-
-### MOST USED LANGUAGES
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karun-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981" />
+<img src="https://img.shields.io/badge/01-OBSERVE-047857?style=for-the-badge&labelColor=0D211B" alt="Observe" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/02-QUESTION-059669?style=for-the-badge&labelColor=0D211B" alt="Question" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/03-EXPERIMENT-10B981?style=for-the-badge&labelColor=0D211B" alt="Experiment" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/04-REFINE-34D399?style=for-the-badge&labelColor=0D211B" alt="Refine" />
 
 </div>
 
----
-
-## ◈ 04 — Contribution Matrix
-
-<div align="center">
-
-### THE CODE NEVER STOPS
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karun-cyber&bg_color=0D1117&color=10B981&line=10B981&point=34D399&area=true&hide_border=true&custom_title=KARUN'S%20CONTRIBUTION%20GRAPH" />
-
-</div>
+I believe that learning is not a finite task. It is a continuous cycle of observation, questioning, experimentation and reflection. Strong fundamentals and consistent curiosity matter more than simply following the latest trend.
 
 ---
 
-## ◈ 05 — 3D Contribution Universe
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/karun-cyber/karun-cyber/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-
-</div>
-
----
-
-## ◈ 06 — Achievements & Milestones
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karun-cyber&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6" />
-
-</div>
-
----
-
-## ◈ 07 — Developer Intelligence
-
-<div align="center">
-
-### A THOUGHT FOR THE DAY
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br /><br />
-
-### THE DEBUGGING ZONE
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-
-</div>
-
----
-
-## ◈ 08 — Establish Connection
+## ◈ 04 — Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/karun-2a4300334/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://leetcode.com/u/karun_24/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 <a href="mailto:karun132114@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=karun-cyber&style=for-the-badge&color=10B981&label=PROFILE+VISITORS" />
+<sub>OPEN TO LEARNING, COLLABORATION & NEW OPPORTUNITIES</sub>
 
 </div>
 
@@ -164,16 +116,17 @@ I'm interested in understanding how intelligent systems work, solving challengin
 
 <div align="center">
 
-# DATA × LOGIC × IMAGINATION
+<h3>DATA &nbsp; × &nbsp; LOGIC &nbsp; × &nbsp; IMAGINATION</h3>
 
-*Intelligence begins where curiosity refuses to stop.*
+<i>Intelligence begins where curiosity refuses to stop.</i>
 
-<br />
+<br /><br />
 
 <sub>◈ &nbsp; A WORK IN PROGRESS. BY DESIGN. &nbsp; ◈</sub>
 
 <br /><br />
 
+<!-- BOTTOM EMERALD WAVE BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064E3B,100:071510&height=140&section=footer" />
 
 </div>
