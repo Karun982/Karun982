@@ -1,8 +1,8 @@
 
 <div align="center">
 
-<!-- TOP ANIMATED EMERALD BANNER -->
-<img width="100%" src="assets/emerald-flow.gif" alt="Emerald flowing animation" />
+<!-- TOP EMERALD WAVE BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071510,50:064E3B,100:10B981&height=160&section=header" />
 
 <br />
 
@@ -14,18 +14,23 @@
 
 <br />
 <sub>CHITKARA UNIVERSITY &nbsp; · &nbsp; EXPLORING THE NEXT FRONTIER</sub>
+
 <br /><br />
 
 <!-- TYPING ANIMATION -->
-<img alt="Connecting data, logic and intelligence"
-src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=650&height=55&lines=Connecting+data+and+intelligence;Finding+order+in+complexity;Learning+beyond+the+obvious;Building+the+future+with+AI" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=650&height=55&lines=Connecting+data+and+intelligence;Finding+order+in+complexity;Learning+beyond+the+obvious;Building+the+future+with+AI"
+alt="Typing animation"
+/>
 
 <br />
 
 <!-- PROFILE BADGES -->
-<img alt="AI and ML" src="https://img.shields.io/badge/DISCIPLINE-AI%20%26%20ML-10B981?style=for-the-badge&labelColor=0D211B" />
-<img alt="Curiosity driven" src="https://img.shields.io/badge/DRIVEN%20BY-CURIOSITY-34D399?style=for-the-badge&labelColor=0D211B" />
-<img alt="Learning in progress" src="https://img.shields.io/badge/STATUS-EVOLVING-84CC16?style=for-the-badge&labelColor=0D211B" />
+<img src="https://img.shields.io/badge/DISCIPLINE-AI%20%26%20ML-10B981?style=for-the-badge&labelColor=0D211B" alt="AI and ML" />
+<img src="https://img.shields.io/badge/DRIVEN%20BY-CURIOSITY-34D399?style=for-the-badge&labelColor=0D211B" alt="Curiosity driven" />
+<img src="https://img.shields.io/badge/STATUS-EVOLVING-84CC16?style=for-the-badge&labelColor=0D211B" alt="Learning in progress" />
+
+<br /><br />
 
 </div>
 
@@ -72,13 +77,13 @@ My goal is to build a deeper understanding of technology, one question and one e
 
 <div align="center">
 
-<img alt="Observe" src="https://img.shields.io/badge/01-OBSERVE-047857?style=for-the-badge&labelColor=0D211B" />
+<img src="https://img.shields.io/badge/01-OBSERVE-047857?style=for-the-badge&labelColor=0D211B" alt="Observe" />
 &nbsp;➜&nbsp;
-<img alt="Question" src="https://img.shields.io/badge/02-QUESTION-059669?style=for-the-badge&labelColor=0D211B" />
+<img src="https://img.shields.io/badge/02-QUESTION-059669?style=for-the-badge&labelColor=0D211B" alt="Question" />
 &nbsp;➜&nbsp;
-<img alt="Experiment" src="https://img.shields.io/badge/03-EXPERIMENT-10B981?style=for-the-badge&labelColor=0D211B" />
+<img src="https://img.shields.io/badge/03-EXPERIMENT-10B981?style=for-the-badge&labelColor=0D211B" alt="Experiment" />
 &nbsp;➜&nbsp;
-<img alt="Refine" src="https://img.shields.io/badge/04-REFINE-34D399?style=for-the-badge&labelColor=0D211B" />
+<img src="https://img.shields.io/badge/04-REFINE-34D399?style=for-the-badge&labelColor=0D211B" alt="Refine" />
 
 </div>
 
@@ -122,7 +127,7 @@ I believe that learning is not a finite task. It is a continuous cycle of observ
 
 <br /><br />
 
-<!-- BOTTOM ANIMATED EMERALD BANNER -->
-<img width="100%" src="assets/emerald-flow.gif" alt="Emerald flowing animation" />
+<!-- BOTTOM EMERALD WAVE BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064E3B,100:071510&height=140&section=footer" />
 
 </div>
